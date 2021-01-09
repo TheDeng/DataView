@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef36de54-cb25-4e9b-b311-897dcee7c55c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1acrDROVLfMU1qmYs9WEI3il1wI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/pages/InviteCode" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/pages/InviteCode" />
+      <recent name="$PROJECT_DIR$/src/pages/Register" />
+      <recent name="$PROJECT_DIR$/src/assets/images" />
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/src/pages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/pages/Home" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/monitor-system/dist/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/template/dist/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.build" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef36de54-cb25-4e9b-b311-897dcee7c55c" name="Default Changelist" comment="" />
+      <created>1587045602983</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587045602983</updated>
+      <workItem from="1587045604445" duration="493000" />
+      <workItem from="1587046829994" duration="3262000" />
+      <workItem from="1587050294276" duration="1005000" />
+      <workItem from="1587051327087" duration="32000" />
+      <workItem from="1587080251556" duration="676000" />
+      <workItem from="1587090927696" duration="613000" />
+      <workItem from="1587120881142" duration="936000" />
+      <workItem from="1587124897462" duration="1258000" />
+      <workItem from="1587129972845" duration="317000" />
+      <workItem from="1587130336308" duration="517000" />
+      <workItem from="1587201896701" duration="610000" />
+      <workItem from="1587202678977" duration="1820000" />
+      <workItem from="1587282747101" duration="1100000" />
+      <workItem from="1587283998951" duration="242000" />
+      <workItem from="1587284243286" duration="6751000" />
+      <workItem from="1587293972291" duration="1983000" />
+      <workItem from="1587448638688" duration="641000" />
+      <workItem from="1587449373968" duration="4555000" />
+      <workItem from="1587558223577" duration="819000" />
+      <workItem from="1587559051913" duration="220000" />
+      <workItem from="1587559276853" duration="2199000" />
+      <workItem from="1587633286433" duration="5065000" />
+      <workItem from="1587692639849" duration="1979000" />
+      <workItem from="1587779722299" duration="7636000" />
+      <workItem from="1587788361758" duration="173000" />
+      <workItem from="1587789577277" duration="729000" />
+      <workItem from="1587866746825" duration="160000" />
+      <workItem from="1587866940073" duration="1377000" />
+      <workItem from="1587871675385" duration="5588000" />
+      <workItem from="1587877870165" duration="835000" />
+      <workItem from="1587882162654" duration="868000" />
+      <workItem from="1587883034228" duration="2264000" />
+      <workItem from="1587885813330" duration="5073000" />
+      <workItem from="1587908597223" duration="45000" />
+      <workItem from="1588127220027" duration="1406000" />
+      <workItem from="1588135350460" duration="2274000" />
+      <workItem from="1588173542003" duration="105000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="306" y="123" key="#ESLint" timestamp="1587202570309">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="306" y="123" key="#ESLint/0.23.1440.832@0.23.1440.832" timestamp="1587202570309" />
+    <state x="450" y="173" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587450314523">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="450" y="173" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.832@0.23.1440.832" timestamp="1587450314523" />
+    <state width="1189" height="187" key="GridCell.Tab.0.bottom" timestamp="1587908532963">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1189" height="187" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1587908532963" />
+    <state width="1189" height="187" key="GridCell.Tab.0.center" timestamp="1587908532962">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1189" height="187" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1587908532962" />
+    <state width="1189" height="187" key="GridCell.Tab.0.left" timestamp="1587908532961">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1189" height="187" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1587908532961" />
+    <state width="1189" height="187" key="GridCell.Tab.0.right" timestamp="1587908532963">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1189" height="187" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1587908532963" />
+    <state x="378" y="55" width="667" height="729" key="find.popup" timestamp="1587873354808">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="378" y="55" width="667" height="729" key="find.popup/0.23.1440.832@0.23.1440.832" timestamp="1587873354808" />
+    <state x="498" y="179" width="670" height="676" key="search.everywhere.popup" timestamp="1587883129093">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="498" y="179" width="670" height="676" key="search.everywhere.popup/0.23.1440.832@0.23.1440.832" timestamp="1587883129093" />
+    <state x="565" y="302" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1588172793564">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="565" y="302" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1440.832@0.23.1440.832" timestamp="1588172793564" />
+  </component>
+</project>

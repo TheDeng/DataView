@@ -1,0 +1,30 @@
+.cpuchart1{
+    padding: 60px;
+    margin:auto;
+    height: 500px;
+}
+
+
+.black{
+    height: 50px;
+    margin-top: 100px;
+}
+.data-alert{
+    width: 200px;
+    height: 100px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    font-size: 25px;
+}
+.pane-container{
+    padding-left: 50px;
+    margin-left: 50px;
+    margin-top: 50px;
+
+}
+.container{
+
+    overflow: hidden;
+    background-color: white;
+
+}
